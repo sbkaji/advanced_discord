@@ -7,6 +7,8 @@ Basically Function of this Script
 2. if player disconnect or quit your server give playing role in the discord
 3. check if player still in your server playing role in the discord
 4. If server crashes or something happens then automatically remove the role if not playing
+
+
 Screenshot : https://imgur.com/a/yj75qsW
 
 I Made this in my free time you can contribute in this script 
